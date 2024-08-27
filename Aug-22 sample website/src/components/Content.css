@@ -1,0 +1,18 @@
+/* Content Styles */
+main {
+    padding: 2rem;
+  }
+  
+  main h2 {
+    font-size: 2rem;
+  }
+  
+  main p {
+    font-size: 1rem;
+  }
+  
+  main img {
+    max-width: 100%;
+    height: auto;
+  }
+  

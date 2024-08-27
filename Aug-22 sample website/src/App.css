@@ -1,0 +1,37 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header, footer {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+}
+
+header a, footer a {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+header ul, footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+header li, footer li {
+  display: inline;
+}
+
+main {
+  padding: 2rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
